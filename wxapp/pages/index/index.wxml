@@ -1,3 +1,5 @@
+<!--下拉有惊喜-->
+<view class='pulldown' hidden='{{hidden}}'>下拉有惊喜</view>
 <!--标题栏-->
 <view class='head'>
   <view class='head-title'>嘉鱼农商行</view>

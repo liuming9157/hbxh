@@ -5,7 +5,7 @@
     "pages/yuyue/yuyue"
   ],
   "window":{
-    "backgroundTextStyle":"light",
+    "backgroundTextStyle":"dark",
     "navigationBarBackgroundColor": "#13227a",
     "navigationBarTitleText": "嘉鱼农商行",
     "navigationBarTextStyle":"white"
