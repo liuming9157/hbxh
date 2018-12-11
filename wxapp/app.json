@@ -1,0 +1,32 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/yuyue/yuyue"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#13227a",
+    "navigationBarTitleText": "嘉鱼农商行",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath": "images/home.png",
+      "selectedIconPath": "images/homeHL.png"
+    },{
+      "pagePath": "pages/yuyue/yuyue",
+      "text": "预约",
+      "iconPath": "images/tel.png",
+      "selectedIconPath": "images/telHL.png"
+    },{
+      "pagePath": "pages/logs/logs",
+      "text": "我的",
+      "iconPath": "images/mine.png",
+      "selectedIconPath": "images/mineHL.png"
+    }],
+    "selectedColor": "#13227a"
+  }
+}

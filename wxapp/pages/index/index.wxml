@@ -1,0 +1,54 @@
+<!--标题栏-->
+<view class='head'>
+  <view class='head-title'>嘉鱼农商行</view>
+  <view class='head-subtitle'>您身边有温度的银行</view>
+  <button class='head-btn'>登录/注册</button>
+</view>
+<!--福卡栏-->
+<view class='card'>
+  <view class='left'>
+    <view class='card-title'>福卡</view>
+    <view class='card-description'>活期存款</view>
+    <view class='card-description'> 您的专属银行卡</view>
+  </view>
+  <view class='right'>
+    <view class='card-rate'>3.200%</view>
+    <view class='card-rate-description'>七日年化收益率</view>
+  </view>
+</view>
+<!--活期+-->
+<view class='card'>
+  <view class='left'>
+    <view class='card-title'>活期+</view>
+    <view class='card-description'>5万起存</view>
+    <view class='card-description'> 随用随取</view>
+  </view>
+  <view class='right'>
+    <view class='card-rate'>3.200%</view>
+    <view class='card-rate-description'>七日年化收益率</view>
+  </view>
+</view>
+<!--定期存款-->
+<view class='card'>
+  <view class='left'>
+    <view class='card-title'>定期存款</view>
+    <view class='card-description'>定存定取</view>
+    <view class='card-description'> 存款利率很happy</view>
+  </view>
+  <view class='right'>
+    <view class='card-rate'>3.200%</view>
+    <view class='card-rate-description'>七日年化收益率</view>
+  </view>
+</view>
+<!--定期宝-->
+<view class='card'>
+  <view class='left'>
+    <view class='card-title'>定期宝</view>
+    <view class='card-description'>智能定存</view>
+    <view class='card-description'> 存款利率很happy</view>
+  </view>
+  <view class='right'>
+    <view class='card-rate'>3.200%</view>
+    <view class='card-rate-description'>七日年化收益率</view>
+  </view>
+</view>

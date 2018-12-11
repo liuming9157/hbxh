@@ -1,0 +1,73 @@
+page {
+  background-color: #13227a;
+}
+
+.head {
+  padding: 20px 20px;
+}
+
+.head-title {
+  margin-top: 30px;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+
+.head-subtitle {
+  font-size: 14px;
+  text-align: center;
+  color: gray;
+}
+.head-btn{
+  background-color: #cc6600;
+  color: white;
+  width: 120px;
+  font-size: 14px;
+  margin-top: 20px;
+  border-radius: 20px
+}
+
+.card {
+  margin: 20px 20px;
+  padding: 20px 20px;
+  background-color: white;
+  border-radius: 5px;
+  height: 60px;
+}
+
+.left {
+  position: relative;
+  float: left;
+  height: auto;
+  
+}
+
+.card-title {
+  width: 70px;
+  background-color: #13227a;
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+  transform: skewX(-10deg);
+}
+
+.card-description {
+  color: #13227a;
+  font-size: 14px;
+}
+
+.right {
+  position: relative;
+  float: right;
+  text-align: right;
+}
+.card-rate{
+  margin-top: 15px;
+  color: orange;
+  font-size: 20px
+}
+.card-rate-description{
+  color: gray;
+  font-size: 14px
+}
